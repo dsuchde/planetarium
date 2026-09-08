@@ -7,18 +7,32 @@
   ],
   authors: (
     (
-      name: "Author 1",
+      name: "Dhruv Suchde",
       department: [Department 1],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
       email: "author1@illinois.edu",
     ),
     (
-      name: "Author 2",
+      name: "Kayla Puchitkanont",
       department: [Department 2],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author2@illinois.edu",
+      email: "kaylap3@illinois.edu",
+    ),
+    (
+      name: "Author 3",
+      department: [Department 3],
+      organization: [University of Illinois Urbana-Champaign],
+      location: [Urbana, IL, USA],
+      email: "author3@illinois.edu",
+    ),
+    (
+      name: "Author 4",
+      department: [Department 4],
+      organization: [University of Illinois Urbana-Champaign],
+      location: [Urbana, IL, USA],
+      email: "author4@illinois.edu",
     ),
   ),
   index-terms: ("Optional", "Keywords", "Here"),
@@ -28,6 +42,8 @@
 = First Section
 
 To add citations to the report, go to #link("https://scholar.google.com"), search for a paper, click on the quotation mark icon below the search result, and copy the BibTeX entry. Then paste it into the `refs.bib` file. You can cite papers using the `@` symbol followed by the citation key, e.g., @lowry1951protein.
+
+Additional Paragraph *(test)*
 
 Other options to get BibTeX entries for your references include #link("https://www.bibtex.com/converters/") and asking an LLM to generate the a BibTeX entry for you. (If you use an LLM, make sure to verify the generated BibTeX entry for correctness.)
 
