@@ -29,7 +29,7 @@
     ),
     (
       name: "Katie Weems",
-      department: [Department 4],
+      department: [Department of Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
       email: "weems3@illinois.edu",
