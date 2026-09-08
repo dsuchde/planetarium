@@ -1,31 +1,31 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [Report Template],
+  title: [Space is Quite a Neat Place],
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
   authors: (
     (
       name: "Dhruv Suchde",
-      department: [Department 1],
+      department: [Department of Civil and Environmental Engineering ],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author1@illinois.edu",
+      email: "dsuchde2@illinois.edu",
     ),
     (
       name: "Kayla Puchitkanont",
-      department: [Department 2],
+      department: [Department of Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
       email: "kaylap3@illinois.edu",
     ),
     (
-      name: "Author 3",
-      department: [Department 3],
+      name: "Jingxuan Du",
+      department: [Department of Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author3@illinois.edu",
+      email: "du28@illinois.edu",
     ),
     (
       name: "Author 4",
