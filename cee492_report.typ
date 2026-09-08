@@ -28,11 +28,11 @@
       email: "du28@illinois.edu",
     ),
     (
-      name: "Author 4",
+      name: "Katie Weems",
       department: [Department 4],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author4@illinois.edu",
+      email: "weems3@illinois.edu",
     ),
   ),
   index-terms: ("Optional", "Keywords", "Here"),
